@@ -6,25 +6,25 @@ title: "2025 WFA Grad Student R Workshop"
 
 WFA will be hosting a 5-day R coding workshop for graduate students.
 
-+-----+-----------------------------------------------------------------+
-| Day | Topics                                                          |
-+=====+=================================================================+
-| 1   | Introduction to R & R Studio                                    |
-|     |                                                                 |
-|     | Reproducibility and data organization                           |
-|     |                                                                 |
-|     | Using Git & GitHub with R                                       |
-+-----+-----------------------------------------------------------------+
-| 2   | Cleaning and manipulating data                                  |
-|     |                                                                 |
-|     | Control flow, Boolean operators, regular expressions            |
-+-----+-----------------------------------------------------------------+
-| 3   | Data Visualization                                              |
-+-----+-----------------------------------------------------------------+
-| 4   | Basic univariate analysis in the Tidy Models framework          |
-+-----+-----------------------------------------------------------------+
-| 5   | Handling spatial data in R                                      |
-+-----+-----------------------------------------------------------------+
++-----+--------------------------------------------------------+
+| Day | Topics                                                 |
++=====+========================================================+
+| 1   | Introduction to R & R Studio                           |
+|     |                                                        |
+|     | Reproducibility and data organization                  |
+|     |                                                        |
+|     | Using Git & GitHub with R                              |
++-----+--------------------------------------------------------+
+| 2   | Cleaning and manipulating data                         |
+|     |                                                        |
+|     | Control flow, Boolean operators, regular expressions   |
++-----+--------------------------------------------------------+
+| 3   | Data Visualization                                     |
++-----+--------------------------------------------------------+
+| 4   | Basic univariate analysis in the Tidy Models framework |
++-----+--------------------------------------------------------+
+| 5   | Handling spatial data in R                             |
++-----+--------------------------------------------------------+
 
 ```{r}
 1 + 1
