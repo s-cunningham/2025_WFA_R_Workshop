@@ -4,13 +4,15 @@ title: "2025 WFA Grad Student R Workshop"
 
 ## Workshop Overview
 
-This is a Quarto website.
-
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
+
+## Who should take this workshop?
+
+Everyone! Even if you're fairly comfortable using R for analyses,
 
 ## Dates
 
@@ -19,3 +21,7 @@ August 11-15, 2025
 ## Sign up
 
 Sign up [here](https://forms.office.com/r/fhW8TU3CpA) (will take you to a Microsoft Form)
+
+## Still have questions?
+
+Email me! sac793\@msstate.edu

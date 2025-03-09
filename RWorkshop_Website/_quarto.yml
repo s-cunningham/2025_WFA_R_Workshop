@@ -9,6 +9,13 @@ website:
         text: Home
       - about.qmd
       - materials.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://github.com/s-cunningham/2025_WFA_R_Workshop
+          - text: Report a Bug
+            href:  https://github.com/s-cunningham/2025_WFA_R_Workshop/issues
 
 format:
   html:
