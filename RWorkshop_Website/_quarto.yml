@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  title: "RWorkshop_Website"
+  title: "2025 WFA R Workshop"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - materials.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
