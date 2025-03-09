@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "Workshop materials will be stored here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "2025 WFA Grad Student R Workshop",
@@ -12,33 +26,5 @@
     "title": "2025 WFA Grad Student R Workshop",
     "section": "",
     "text": "WFA will be hosting a 5-day R coding workshop for graduate students.\n\n\n\n\n\n\n\nDay\nTopics\n\n\n\n\n1\nIntroduction to R & R Studio\nReproducibility and data organization\nUsing Git & GitHub with R\n\n\n2\nCleaning and manipulating data\nControl flow, Boolean operators, regular expressions\n\n\n3\nData Visualization\n\n\n4\nBasic univariate analysis in the Tidy Models framework\n\n\n5\nHandling spatial data in R\n\n\n\n\n1 + 1\n\n[1] 2\n\n\n\n\nEveryone! Even if you’re fairly comfortable using R for analyses, having more experienced coders will help new students build confidence.\n\n\n\nAugust 11-15, 2025\n\n\n\nSign up here (will take you to a Microsoft Form)\n\n\n\nEmail me! sac793@msstate.edu or stop by my office to chat (TH207)"
-  },
-  {
-    "objectID": "index.html#dates",
-    "href": "index.html#dates",
-    "title": "2025 WFA Grad Student R Workshop",
-    "section": "Dates",
-    "text": "Dates\nAugust 11-15, 2025"
-  },
-  {
-    "objectID": "index.html#sign-up",
-    "href": "index.html#sign-up",
-    "title": "2025 WFA Grad Student R Workshop",
-    "section": "Sign up",
-    "text": "Sign up\nSign up here (will take you to a Microsoft Form)"
-  },
-  {
-    "objectID": "index.html#who-should-take-this-workshop",
-    "href": "index.html#who-should-take-this-workshop",
-    "title": "2025 WFA Grad Student R Workshop",
-    "section": "Who should take this workshop?",
-    "text": "Who should take this workshop?\nEveryone! Even if you’re fairly comfortable using R for analyses,"
-  },
-  {
-    "objectID": "index.html#still-have-questions",
-    "href": "index.html#still-have-questions",
-    "title": "2025 WFA Grad Student R Workshop",
-    "section": "Still have questions?",
-    "text": "Still have questions?\nEmail me! sac793@msstate.edu"
   }
 ]
