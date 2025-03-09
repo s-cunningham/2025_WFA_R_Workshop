@@ -6,7 +6,7 @@ format:
 editor: visual
 ---
 
-## Quarto
+## What is Git?
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
@@ -31,3 +31,11 @@ When you click the **Render** button a presentation will be generated that inclu
 2.  *Revisit the complete history of all changes.* You can go back to previous versions of your project to see where it was at weeks, months, years ago.
 3.  *Keep a record of why changes were made.* Git provides an opportunity to document every change with **commit messages**, which can be viewed later.
 4.  *Experiment without changing the main project.* Git allows you to create **branches** that are separate from the main project, which can be merged if they work, and discarded if they don't.
+
+## References
+
+Material liberally borrowed from:
+
+Bell P & B Beer. 2015. *Introducing GitHub: A Non-Technical Guide*. O'Reiily Media, Inc., Sebastopol, CA.
+
+Happy Git and GitHub for the useR. <https://happygitwithr.com/>
