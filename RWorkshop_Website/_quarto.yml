@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "2025 WFA R Workshop"
+  title: "2025 WFA R Coding Workshop"
   navbar:
     left:
       - href: index.qmd
@@ -21,7 +22,7 @@ format:
   html:
     theme: journal
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

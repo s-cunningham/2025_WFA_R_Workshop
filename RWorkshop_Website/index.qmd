@@ -4,24 +4,44 @@ title: "2025 WFA Grad Student R Workshop"
 
 ## Workshop Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+WFA will be hosting a 5-day R coding workshop for graduate students.
+
++-----+-----------------------------------------------------------------+
+| Day | Topics                                                          |
++=====+=================================================================+
+| 1   | Introduction to R & R Studio                                    |
+|     |                                                                 |
+|     | Reproducibility and data organization                           |
+|     |                                                                 |
+|     | Using Git & GitHub with R                                       |
++-----+-----------------------------------------------------------------+
+| 2   | Cleaning and manipulating data                                  |
+|     |                                                                 |
+|     | Control flow, Boolean operators, regular expressions            |
++-----+-----------------------------------------------------------------+
+| 3   | Data Visualization                                              |
++-----+-----------------------------------------------------------------+
+| 4   | Basic univariate analysis in the Tidy Models framework          |
++-----+-----------------------------------------------------------------+
+| 5   | Handling spatial data in R                                      |
++-----+-----------------------------------------------------------------+
 
 ```{r}
 1 + 1
 ```
 
-## Who should take this workshop?
+### Who should take this workshop?
 
-Everyone! Even if you're fairly comfortable using R for analyses,
+Everyone! Even if you're fairly comfortable using R for analyses, having more experienced coders will help new students build confidence.
 
-## Dates
+### Dates
 
 August 11-15, 2025
 
-## Sign up
+### Sign up
 
 Sign up [here](https://forms.office.com/r/fhW8TU3CpA) (will take you to a Microsoft Form)
 
-## Still have questions?
+### Still have questions?
 
-Email me! sac793\@msstate.edu
+Email me! sac793\@msstate.edu or stop by my office to chat (TH207)
